@@ -1,0 +1,1 @@
+*.Kaprila.com/*
