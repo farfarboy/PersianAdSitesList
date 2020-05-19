@@ -1,2 +1,3 @@
 *.Kaprila.com/*
 https://p30download.com/tabliq/*
+https://p30download.com/agahi/*
