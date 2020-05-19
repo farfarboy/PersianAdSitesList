@@ -1,12 +1,10 @@
 [Adblock Plus 2.0]
-! Expires: 1 days
-! Expires: 7 days (update frequency)
+! Expires: 7 days
 *Kaprila.com*
-https://p30download.com/tabliq/*
-https://p30download.com/agahi/*
-https://p30download.com##div[class="text-tabliq"]
-https://p30download.com#?#div:-abp-contains(Ads by p30download)
-https://p30download.com##div[class="article-wrapper"]
-https://p30download.com#?#:-abp-has(دانلود)
-https://p30download.com#?#:-abp-has(> دانلود)
-https://p30download.com##.tabliq-green
+!https://p30download.com
+https://p30download.com/tabliq/
+https://p30download.com/agahi/
+##div[class="text-tabliq"]
+##div[class^="tabliq"]
+##div[class="widget sidebar-tabliq"]
+##a[href^="https://p30download.com/agahi/"]
