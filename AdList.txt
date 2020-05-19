@@ -1,2 +1,2 @@
 *.Kaprila.com/*
-*.p30download.com/tabliq/*
+https://p30download.com/tabliq/*
