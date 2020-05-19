@@ -1,4 +1,4 @@
 *.Kaprila.com/*
 https://p30download.com/tabliq/*
 https://p30download.com/agahi/*
-https://p30download.com##text-tabliq
+https://p30download.com##"text-tabliq"
